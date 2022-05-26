@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u+x user/
+chmod -R u+x 
