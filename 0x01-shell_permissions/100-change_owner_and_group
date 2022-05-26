@@ -1,3 +1,2 @@
 #!/bin/bash
-chown /0x01-shell_permission vincent
-chgrp /0x01-shell_permission staff
+chown vincent:staff /0x01-shell_permission 
